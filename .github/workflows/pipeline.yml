@@ -21,4 +21,4 @@ jobs:
       - name: install
         run: npm install
       - name: deploy
-        run: npm run deploy
+        run: npx sst deploy --stage prod
