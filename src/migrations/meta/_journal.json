@@ -1,0 +1,20 @@
+{
+  "version": "5",
+  "dialect": "pg",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1682929025299,
+      "tag": "0000_tranquil_silverclaw",
+      "breakpoints": false
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1682930068083,
+      "tag": "0001_opposite_masked_marvel",
+      "breakpoints": false
+    }
+  ]
+}
